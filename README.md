@@ -1,6 +1,6 @@
 # ETL Python Project 
 This is an ETL process involving Data from https://www.chess.com/games
-## Reaquired Libraries
+## Required Libraries
       import requests
       
       from bs4 import BeautifulSoup
